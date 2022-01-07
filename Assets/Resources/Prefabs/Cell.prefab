@@ -97,3 +97,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isAlive: 0
   numNeighbors: 0
+  CellAliveColor: {r: 0, g: 0, b: 0, a: 0}
+  CellDeadColor: {r: 0, g: 0, b: 0, a: 0}
